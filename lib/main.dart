@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:widgetsfactory/pages/homepage.dart';
 import 'package:widgetsfactory/pages/splashScreen.dart';
+import 'package:widgetsfactory/topics/columnWidget.dart';
 import 'package:widgetsfactory/topics/containerWidget.dart';
 
 void main() {
@@ -20,7 +21,7 @@ class MyApp extends StatelessWidget {
           fontFamily: 'Playfair',
           visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: const Example1(),
+      home: const Example2(),
     );
   }
 }
