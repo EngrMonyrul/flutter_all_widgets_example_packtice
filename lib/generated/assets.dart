@@ -4,6 +4,7 @@ class Assets {
 
   static const String codesnapColumn = 'assets/codesnap/column.png';
   static const String codesnapContainer = 'assets/codesnap/container.png';
+  static const String codesnapRowwidget = 'assets/codesnap/rowwidget.png';
   static const String fontsPlayfairDisplayVariableFontWght = 'assets/fonts/PlayfairDisplay-VariableFont_wght.ttf';
   static const String images16565784086IllustrationPng = 'assets/images/1656578408_6-illustration_png.png';
   static const String images165657841120IllustrationPng = 'assets/images/1656578411_20-illustration_png.png';

@@ -4,6 +4,7 @@ import 'package:widgetsfactory/pages/homepage.dart';
 import 'package:widgetsfactory/pages/splashScreen.dart';
 import 'package:widgetsfactory/topics/columnWidget.dart';
 import 'package:widgetsfactory/topics/containerWidget.dart';
+import 'package:widgetsfactory/topics/rowWidget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -21,7 +22,7 @@ class MyApp extends StatelessWidget {
           fontFamily: 'Playfair',
           visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: const Example2(),
+      home: const Example3(),
     );
   }
 }
